@@ -4,6 +4,4 @@ leafmap
 openrouteservice
 localtileserver
 json5
-openpyxl
-json
 os
