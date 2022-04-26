@@ -3,7 +3,7 @@ geopandas
 leafmap
 openrouteservice
 localtileserver
-json
+json5
 openpyxl
 json
 os
