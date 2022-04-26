@@ -3,5 +3,4 @@ geopandas
 leafmap
 openrouteservice
 localtileserver
-json5
 os
