@@ -11,3 +11,4 @@ openrouteservice == 2.3.3
 
 # C:\Users\User\OneDrive\Documents\GitHub\voila-ors\ORS_ex1.ipynb: 1
 pandas == 1.4.2
+voila == 0.3.5
