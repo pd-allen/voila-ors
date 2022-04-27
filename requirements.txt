@@ -13,4 +13,4 @@ openrouteservice == 2.3.3
 pandas == 1.4.2
 voila == 0.3.5
 matplotlib-inline == 0.1.3
-matplotlib-base == 3.5.1
+
