@@ -1,6 +1,6 @@
-FileName,Colour,Unit,Title
-58BattalionCEF.csv,orange,58 Bttn,58th Battalion CEF
-2ndBattnAug1914.csv,red,2nd Suffolks,2nd Battalion Suffolk Regiment
-Argyll.csv,green,Argylls,Argyll and Sutherland Highlanders
-1stBattalionJan1915.csv,purple,1st Suffolks,1st Battalion Suffolk Regiment
-BattlefieldTour.csv,blue,WWI Tour,Unit Maps
+FileName,Colour,Unit,Title,File
+58BattalionCEF.csv,orange,58 Bttn,58th Battalion CEF,58BattalionCEF.csv
+2ndBattnAug1914.csv,red,2nd Suffolks,2nd Battalion Suffolk Regiment,2ndBattnAug1914.csv
+Argyll.csv,green,Argylls,Argyll and Sutherland Highlanders,Argyll.csv
+1stBattalionJan1915.csv,purple,1st Suffolks,1st Battalion Suffolk Regiment,1stBattalionJan1915.csv
+BattlefieldTour.csv,blue,WWI Tour,Unit Maps,BattlefieldTour.csv
