@@ -1,17 +1,17 @@
-﻿Date,Location,Latitude,Longitude,Comments,Photo
-15-Aug-14,Le Havre,49.476963,0.141894,via Ship from Curragh Ireland.  They sailed directly from Dublin,LeHavre-IWM-Q51472.jpg
-17-Aug-14,Le Cateau,50.0910511,3.5383812,Via Train,TroopTrain.jpg
-18-Aug-14,Landrecies,50.1170622,3.6490208,Joined up with the rest of 5th Division,5thDiv.jpg
-21-Aug-14,St Waast,50.3032896,3.7296874,20 Mile March,befMarch2.jpg
-22-Aug-14,Hainin,50.430477,3.761068,18 Mile March,befMarch2.jpg
-23-Aug-14,Mons-Conde Canal,50.4475964,3.7089613,Battle of Mons,BattleofMonsBigMap.jpg
-24-Aug-14,Bavai,50.3756677,3.8070989,Withdrawl from Mons,LittleContemptables-Image85900.jpg
-25-Aug-14,Le Cateau,50.102672,3.527483,Battle of le Cateau ,18-german-infantry-advancing-1200.jpg
-26-Aug-14,Bohain,50.0456304,3.4266328,"Battle of Le Cateau. 720 casualties, then withdraw",suffolkmemorial.png
-27-Aug-14,St Quentin,49.8476282,3.2440443, ,
-28-Aug-14,Ham,49.7529551,3.052378, ,
-30-Aug-14,Attichy,49.4249271,3.0263335, ,
-31-Aug-14,Crepy-en-Valois,49.3252923,2.8986666, ,
-02-Sep-14,Montge,49.027088,2.749837, ,
-03-Sep-14,Isles-les-Vilenoy,48.96976,2.7383946, ,
-05-Sep-14,Favieres,48.8386318,2.7206491, ,
+﻿Date,Location,Latitude,Longitude,Comments,Photo,Reason,Country,MBS Prefix,Map Ref
+15-Aug-14,Le Havre,49.476963,0.141894,via Ship from Curragh Ireland.  They sailed directly from Dublin,LeHavre-IWM-Q51472.jpg,,,,
+17-Aug-14,Le Cateau,50.0910511,3.5383812,Via Train,TroopTrain.jpg,,,,
+18-Aug-14,Landrecies,50.1170622,3.6490208,Joined up with the rest of 5th Division,5thDiv.jpg,,,,
+21-Aug-14,St Waast,50.3032896,3.7296874,20 Mile March,befMarch2.jpg,,,,
+22-Aug-14,Hainin,50.430477,3.761068,18 Mile March,befMarch2.jpg,,,,
+23-Aug-14,Mons-Conde Canal,50.4475964,3.7089613,Battle of Mons,BattleofMonsBigMap.jpg,,,,
+24-Aug-14,Bavai,50.3756677,3.8070989,Withdrawl from Mons,LittleContemptables-Image85900.jpg,,,,
+25-Aug-14,Le Cateau,50.102672,3.527483,Battle of le Cateau ,18-german-infantry-advancing-1200.jpg,,,,
+26-Aug-14,Bohain,50.0456304,3.4266328,"Battle of Le Cateau. 720 casualties, then withdraw",suffolkmemorial.png,,,,
+27-Aug-14,St Quentin,49.8476282,3.2440443, ,,,,,
+28-Aug-14,Ham,49.7529551,3.052378, ,,,,,
+30-Aug-14,Attichy,49.4249271,3.0263335, ,,,,,
+31-Aug-14,Crepy-en-Valois,49.3252923,2.8986666, ,,,,,
+02-Sep-14,Montge,49.027088,2.749837, ,,,,,
+03-Sep-14,Isles-les-Vilenoy,48.96976,2.7383946, ,,,,,
+05-Sep-14,Favieres,48.8386318,2.7206491, ,,,,,
